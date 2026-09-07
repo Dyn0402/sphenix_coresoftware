@@ -1,0 +1,3 @@
+C:/Users/Dylan/CLionProjects/sphenix_coresoftware/cmake-build-debug/CMakeFiles/sphenix_coresoftware.dir
+C:/Users/Dylan/CLionProjects/sphenix_coresoftware/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dylan/CLionProjects/sphenix_coresoftware/cmake-build-debug/CMakeFiles/rebuild_cache.dir
